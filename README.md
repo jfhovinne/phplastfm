@@ -4,7 +4,7 @@ Last.fm PHP client
 ## Install
 
 ```
-$ composer install
+$ composer require jfhovinne/phplastfm:dev-master
 ```
 
 ## Use
