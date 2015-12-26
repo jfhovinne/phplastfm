@@ -15,7 +15,7 @@ Then, instantiate the client by passing the API key:
 
 ```
 <?php
-require __DIR__ . '/../vendor/autoload.php';
+require __DIR__ . '/vendor/autoload.php';
 
 use Lastfm\Client as LastfmClient;
 
