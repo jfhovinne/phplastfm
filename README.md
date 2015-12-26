@@ -19,7 +19,7 @@ require __DIR__ . '/vendor/autoload.php';
 
 use Lastfm\Client as LastfmClient;
 
-$lastfmclient = new LastfmClient('your_secret_api_key');
+$lastfmclient = new LastfmClient('your_api_key');
 ```
 
 To call a Last.fm API method and get the results in JSON, use `callMethod($methodName, $parameters)`.
