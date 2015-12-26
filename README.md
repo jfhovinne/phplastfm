@@ -7,7 +7,7 @@ Last.fm PHP client
 $ composer install
 ```
 
-## Usage
+## Use
 
 First get a Last.fm API key, see http://www.last.fm/api
 
