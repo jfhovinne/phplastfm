@@ -1,5 +1,8 @@
 {
+    "name": "jfhovinne/phplastfm",
+    "description": "Last.fm API client",
     "require": {
+        "php": ">=5.5.0",
         "guzzlehttp/guzzle": "^6.1"
     },
     "autoload": {
